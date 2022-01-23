@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/reactbubblesort/static/css/main.3afc80dd.css",
-    "main.js": "/reactbubblesort/static/js/main.84d0b34a.js",
+    "main.css": "/reactbubblesort/static/css/main.1ca470fc.css",
+    "main.js": "/reactbubblesort/static/js/main.ebd36f8b.js",
+    "static/media/RobotoMono-Regular.ttf": "/reactbubblesort/static/media/RobotoMono-Regular.418a8f9f65ccad0918af.ttf",
     "index.html": "/reactbubblesort/index.html",
-    "main.3afc80dd.css.map": "/reactbubblesort/static/css/main.3afc80dd.css.map",
-    "main.84d0b34a.js.map": "/reactbubblesort/static/js/main.84d0b34a.js.map"
+    "main.1ca470fc.css.map": "/reactbubblesort/static/css/main.1ca470fc.css.map",
+    "main.ebd36f8b.js.map": "/reactbubblesort/static/js/main.ebd36f8b.js.map"
   },
   "entrypoints": [
-    "static/css/main.3afc80dd.css",
-    "static/js/main.84d0b34a.js"
+    "static/css/main.1ca470fc.css",
+    "static/js/main.ebd36f8b.js"
   ]
 }
