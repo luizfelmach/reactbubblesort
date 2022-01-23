@@ -1,11 +1,12 @@
 .display {
-  background-color: #fff;
-  width: 350px;
-  height: 400px;
+  background-color: #f6f6e2;
+  padding: 10px;
+  width: 320px;
+  height: 350px;
   border-radius: 10px;
   overflow: hidden;
   display: grid;
-  grid-template-columns: repeat(20, 5%);
+  grid-template-columns: repeat(15, 6.6%);
   grid-template-rows: 0.7fr 0.2fr;
   justify-items: center;
   align-items: flex-end;
@@ -16,21 +17,17 @@
 
 .button {
   grid-column-start: 1;
-  grid-column-end: 21;
-}
-
-:root {
-  --bg-button: #f0f0f0;
-  --border-button: solid 1px #888;
+  grid-column-end: 16;
 }
 
 button {
-  font-size: 1em;
+  font-size: 1.4em;
   width: 180px;
   height: 50px;
   border-radius: 10px;
-  background-color: var(--bg-button);
+  background-color: #dadada;
   border: none;
+  color: #333;
 
   outline: none;
   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
