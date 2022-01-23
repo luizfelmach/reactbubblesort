@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.3afc80dd.css",
-    "main.js": "/static/js/main.84d0b34a.js",
-    "index.html": "/index.html",
-    "main.3afc80dd.css.map": "/static/css/main.3afc80dd.css.map",
-    "main.84d0b34a.js.map": "/static/js/main.84d0b34a.js.map"
+    "main.css": "/reactbubblesort/static/css/main.3afc80dd.css",
+    "main.js": "/reactbubblesort/static/js/main.84d0b34a.js",
+    "index.html": "/reactbubblesort/index.html",
+    "main.3afc80dd.css.map": "/reactbubblesort/static/css/main.3afc80dd.css.map",
+    "main.84d0b34a.js.map": "/reactbubblesort/static/js/main.84d0b34a.js.map"
   },
   "entrypoints": [
     "static/css/main.3afc80dd.css",
